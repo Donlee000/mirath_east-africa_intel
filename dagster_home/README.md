@@ -1,4 +1,4 @@
-# dagster_Home
+# dagster_home
 
 ## Getting started
 
