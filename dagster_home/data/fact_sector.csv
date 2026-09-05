@@ -1,0 +1,109 @@
+country_code,country_name,sector_code,sector_name,wits_supported,measurement_basis,primary_source
+BDI,Burundi,MAN,Manufacturing,True,Merchandise trade product groups,WITS
+BDI,Burundi,LOG,Logistics,False,Requires logistics or services data,Source required
+BDI,Burundi,RET,Retail,False,Requires retail or services data,Source required
+BDI,Burundi,PHA,Pharma,True,Pharmaceutical product trade,WITS
+BDI,Burundi,TEC,Technology,True,Technology-related product trade,WITS
+BDI,Burundi,CON,Construction,False,Requires construction-sector data,Source required
+COM,Comoros,MAN,Manufacturing,True,Merchandise trade product groups,WITS
+COM,Comoros,LOG,Logistics,False,Requires logistics or services data,Source required
+COM,Comoros,RET,Retail,False,Requires retail or services data,Source required
+COM,Comoros,PHA,Pharma,True,Pharmaceutical product trade,WITS
+COM,Comoros,TEC,Technology,True,Technology-related product trade,WITS
+COM,Comoros,CON,Construction,False,Requires construction-sector data,Source required
+DJI,Djibouti,MAN,Manufacturing,True,Merchandise trade product groups,WITS
+DJI,Djibouti,LOG,Logistics,False,Requires logistics or services data,Source required
+DJI,Djibouti,RET,Retail,False,Requires retail or services data,Source required
+DJI,Djibouti,PHA,Pharma,True,Pharmaceutical product trade,WITS
+DJI,Djibouti,TEC,Technology,True,Technology-related product trade,WITS
+DJI,Djibouti,CON,Construction,False,Requires construction-sector data,Source required
+ERI,Eritrea,MAN,Manufacturing,True,Merchandise trade product groups,WITS
+ERI,Eritrea,LOG,Logistics,False,Requires logistics or services data,Source required
+ERI,Eritrea,RET,Retail,False,Requires retail or services data,Source required
+ERI,Eritrea,PHA,Pharma,True,Pharmaceutical product trade,WITS
+ERI,Eritrea,TEC,Technology,True,Technology-related product trade,WITS
+ERI,Eritrea,CON,Construction,False,Requires construction-sector data,Source required
+ETH,Ethiopia,MAN,Manufacturing,True,Merchandise trade product groups,WITS
+ETH,Ethiopia,LOG,Logistics,False,Requires logistics or services data,Source required
+ETH,Ethiopia,RET,Retail,False,Requires retail or services data,Source required
+ETH,Ethiopia,PHA,Pharma,True,Pharmaceutical product trade,WITS
+ETH,Ethiopia,TEC,Technology,True,Technology-related product trade,WITS
+ETH,Ethiopia,CON,Construction,False,Requires construction-sector data,Source required
+KEN,Kenya,MAN,Manufacturing,True,Merchandise trade product groups,WITS
+KEN,Kenya,LOG,Logistics,False,Requires logistics or services data,Source required
+KEN,Kenya,RET,Retail,False,Requires retail or services data,Source required
+KEN,Kenya,PHA,Pharma,True,Pharmaceutical product trade,WITS
+KEN,Kenya,TEC,Technology,True,Technology-related product trade,WITS
+KEN,Kenya,CON,Construction,False,Requires construction-sector data,Source required
+MDG,Madagascar,MAN,Manufacturing,True,Merchandise trade product groups,WITS
+MDG,Madagascar,LOG,Logistics,False,Requires logistics or services data,Source required
+MDG,Madagascar,RET,Retail,False,Requires retail or services data,Source required
+MDG,Madagascar,PHA,Pharma,True,Pharmaceutical product trade,WITS
+MDG,Madagascar,TEC,Technology,True,Technology-related product trade,WITS
+MDG,Madagascar,CON,Construction,False,Requires construction-sector data,Source required
+MWI,Malawi,MAN,Manufacturing,True,Merchandise trade product groups,WITS
+MWI,Malawi,LOG,Logistics,False,Requires logistics or services data,Source required
+MWI,Malawi,RET,Retail,False,Requires retail or services data,Source required
+MWI,Malawi,PHA,Pharma,True,Pharmaceutical product trade,WITS
+MWI,Malawi,TEC,Technology,True,Technology-related product trade,WITS
+MWI,Malawi,CON,Construction,False,Requires construction-sector data,Source required
+MUS,Mauritius,MAN,Manufacturing,True,Merchandise trade product groups,WITS
+MUS,Mauritius,LOG,Logistics,False,Requires logistics or services data,Source required
+MUS,Mauritius,RET,Retail,False,Requires retail or services data,Source required
+MUS,Mauritius,PHA,Pharma,True,Pharmaceutical product trade,WITS
+MUS,Mauritius,TEC,Technology,True,Technology-related product trade,WITS
+MUS,Mauritius,CON,Construction,False,Requires construction-sector data,Source required
+MOZ,Mozambique,MAN,Manufacturing,True,Merchandise trade product groups,WITS
+MOZ,Mozambique,LOG,Logistics,False,Requires logistics or services data,Source required
+MOZ,Mozambique,RET,Retail,False,Requires retail or services data,Source required
+MOZ,Mozambique,PHA,Pharma,True,Pharmaceutical product trade,WITS
+MOZ,Mozambique,TEC,Technology,True,Technology-related product trade,WITS
+MOZ,Mozambique,CON,Construction,False,Requires construction-sector data,Source required
+RWA,Rwanda,MAN,Manufacturing,True,Merchandise trade product groups,WITS
+RWA,Rwanda,LOG,Logistics,False,Requires logistics or services data,Source required
+RWA,Rwanda,RET,Retail,False,Requires retail or services data,Source required
+RWA,Rwanda,PHA,Pharma,True,Pharmaceutical product trade,WITS
+RWA,Rwanda,TEC,Technology,True,Technology-related product trade,WITS
+RWA,Rwanda,CON,Construction,False,Requires construction-sector data,Source required
+SYC,Seychelles,MAN,Manufacturing,True,Merchandise trade product groups,WITS
+SYC,Seychelles,LOG,Logistics,False,Requires logistics or services data,Source required
+SYC,Seychelles,RET,Retail,False,Requires retail or services data,Source required
+SYC,Seychelles,PHA,Pharma,True,Pharmaceutical product trade,WITS
+SYC,Seychelles,TEC,Technology,True,Technology-related product trade,WITS
+SYC,Seychelles,CON,Construction,False,Requires construction-sector data,Source required
+SOM,Somalia,MAN,Manufacturing,True,Merchandise trade product groups,WITS
+SOM,Somalia,LOG,Logistics,False,Requires logistics or services data,Source required
+SOM,Somalia,RET,Retail,False,Requires retail or services data,Source required
+SOM,Somalia,PHA,Pharma,True,Pharmaceutical product trade,WITS
+SOM,Somalia,TEC,Technology,True,Technology-related product trade,WITS
+SOM,Somalia,CON,Construction,False,Requires construction-sector data,Source required
+SSD,South Sudan,MAN,Manufacturing,True,Merchandise trade product groups,WITS
+SSD,South Sudan,LOG,Logistics,False,Requires logistics or services data,Source required
+SSD,South Sudan,RET,Retail,False,Requires retail or services data,Source required
+SSD,South Sudan,PHA,Pharma,True,Pharmaceutical product trade,WITS
+SSD,South Sudan,TEC,Technology,True,Technology-related product trade,WITS
+SSD,South Sudan,CON,Construction,False,Requires construction-sector data,Source required
+TZA,Tanzania,MAN,Manufacturing,True,Merchandise trade product groups,WITS
+TZA,Tanzania,LOG,Logistics,False,Requires logistics or services data,Source required
+TZA,Tanzania,RET,Retail,False,Requires retail or services data,Source required
+TZA,Tanzania,PHA,Pharma,True,Pharmaceutical product trade,WITS
+TZA,Tanzania,TEC,Technology,True,Technology-related product trade,WITS
+TZA,Tanzania,CON,Construction,False,Requires construction-sector data,Source required
+UGA,Uganda,MAN,Manufacturing,True,Merchandise trade product groups,WITS
+UGA,Uganda,LOG,Logistics,False,Requires logistics or services data,Source required
+UGA,Uganda,RET,Retail,False,Requires retail or services data,Source required
+UGA,Uganda,PHA,Pharma,True,Pharmaceutical product trade,WITS
+UGA,Uganda,TEC,Technology,True,Technology-related product trade,WITS
+UGA,Uganda,CON,Construction,False,Requires construction-sector data,Source required
+ZMB,Zambia,MAN,Manufacturing,True,Merchandise trade product groups,WITS
+ZMB,Zambia,LOG,Logistics,False,Requires logistics or services data,Source required
+ZMB,Zambia,RET,Retail,False,Requires retail or services data,Source required
+ZMB,Zambia,PHA,Pharma,True,Pharmaceutical product trade,WITS
+ZMB,Zambia,TEC,Technology,True,Technology-related product trade,WITS
+ZMB,Zambia,CON,Construction,False,Requires construction-sector data,Source required
+ZWE,Zimbabwe,MAN,Manufacturing,True,Merchandise trade product groups,WITS
+ZWE,Zimbabwe,LOG,Logistics,False,Requires logistics or services data,Source required
+ZWE,Zimbabwe,RET,Retail,False,Requires retail or services data,Source required
+ZWE,Zimbabwe,PHA,Pharma,True,Pharmaceutical product trade,WITS
+ZWE,Zimbabwe,TEC,Technology,True,Technology-related product trade,WITS
+ZWE,Zimbabwe,CON,Construction,False,Requires construction-sector data,Source required
