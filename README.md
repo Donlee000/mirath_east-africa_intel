@@ -2,13 +2,13 @@
 
 ## Project Objective
 
-The objective of this project is to identify companies, industries and markets across East Africa that demonstrate strong economic, trade, investment, expansion and infrastructure signals, and determine where these signals may translate into future commercial and industrial real estate demand.
+The objective of this project is to identify companies, industries and markets across East Africa that demonstrate strong economic, trade, investment, expansion and infrastructure signals, and detect where these trends could translate into future commercial and industrial real estate opportunities.
 
 The system is designed around a core investment question:
 
 > **Which companies and sectors are demonstrating the strongest expansion signals across East Africa, and where could this expansion create future commercial and industrial real estate opportunities?**
 
-Rather than analysing economic indicators in isolation, the project combines macroeconomic, sector, trade, company, investment and infrastructure intelligence to identify markets where corporate activity and economic growth may generate future demand for:
+Rather than analysing economic indicators in isolation, the project combines macroeconomic, sector, trade, company, investment and infrastructure intelligence to identify markets where corporate activity is likely to drive growth in property demand.
 
 - Industrial and logistics space
 - Warehousing and distribution facilities
@@ -100,22 +100,29 @@ External APIs & Data Sources
             ↓
           Dagster
             ↓
-       Python ETL
+        Python ETL
             ↓
-   Extract → Clean → Validate
+    Extract → Clean → Validate
             ↓
-       Transform
+        Transform
             ↓
-        Azure SQL
-     Data Warehouse
+         Azure SQL
+      Data Warehouse
             ↓
-     SQL Analytics Layer
+      SQL Analytics Layer
             ↓
-   Opportunity Scoring
+    Opportunity Scoring
             ↓
-         Power BI
+          Power BI
             ↓
- Commercial Intelligence
+  Commercial Intelligence
+```
+
+---
+
+## 🌐 Explore the Live Power BI Dashboard
+
+[CLICK HERE TO VIEW THE LIVE POWER BI DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiNTk0OGIyOTItNjU0My00NGQ2LThlMDItY2RkNTMxNWVjNTBhIiwidCI6IjJmYzk3ZGFiLWI2OGYtNDVjNi1iODI4LTJjM2RiYTI5N2I1YSJ9)
 
 ---
 
