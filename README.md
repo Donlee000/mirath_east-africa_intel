@@ -117,34 +117,6 @@ External APIs & Data Sources
             ↓
  Commercial Intelligence
 
-
- # 📊 Corporate Expansion & Real Estate Opportunity Intelligence
-
-An interactive Power BI intelligence dashboard covering corporate expansion, investment activity, infrastructure, trade, real estate opportunities, and market intelligence across East Africa and the UAE.
-
----
-
-## Dashboard Coverage
-
-- Overview
-- Market Intelligence
-- Country Analysis
-- Industry Analysis
-- Company Intelligence
-- Investment Tracker
-- Infrastructure & SEZ
-- Trade Analysis
-- Real Estate Opportunities
-- Reports
-
----
-
-## 🌐 Explore the Interactive Dashboard
-
-The complete dashboard is available as an interactive Power BI experience.
-
-### [▶ CLICK HERE TO VIEW THE LIVE POWER BI DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiNTk0OGIyOTItNjU0My00NGQ2LThlMDItY2RkNTMxNWVjNTBhIiwidCI6IjJmYzk3ZGFiLWI2OGYtNDVjNi1iODI4LTJjM2RiYTI5N2I1YSJ9)
-
 ---
 
 <p align="center">
